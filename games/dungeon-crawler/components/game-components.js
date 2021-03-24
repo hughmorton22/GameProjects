@@ -1,0 +1,8 @@
+export {default as ChangeSceneComponent} from "./change-scene-component.js"
+export {default as DestroyOnRoomWall} from "./destroy-on-room-wall.js"
+export {default as KeyboardBumpComponent} from "./keyboard-bump-component.js"
+export {default as KeyboardMoveComponent} from "./keyboard-move-component.js"
+export {default as MainControllerComponent} from "./main-controller-component.js"
+export {default as ShootDirectionComponent} from "./shoot-direction-component.js"
+export {default as ShootTearComponent} from "./shoot-tear-component.js"
+export {default as TearMove} from "./tear-move.js"
